@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
 
 version = '0.0.0'
 
-REPO_NAME = 'CNN_classifier'
-AUTHOR_USER_NAME = 'Rahul'
+REPO_NAME = 'Kidney_disease_classifier_CNN'
+AUTHOR_USER_NAME = 'Rahul-Tawar'
 AUTHOR_EMAIL = 'rahultawar2004@gmail.com'
 SRC_REPO = 'CNN_classifier'
 
